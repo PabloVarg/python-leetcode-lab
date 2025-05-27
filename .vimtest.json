@@ -1,0 +1,3 @@
+{
+  "command": "uv run python -m pytest"
+}
