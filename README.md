@@ -10,5 +10,5 @@
 ## How to run on CLI
 
 ```sh
-uv run python -m pytest test_{}.py
+uv run python -m pytest test_main.py
 ```
